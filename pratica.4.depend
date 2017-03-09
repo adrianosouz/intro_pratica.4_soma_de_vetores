@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431657500 source:c:\users\adriano\desktop\multiboot\projetos_c\pratica.4\main.c
+	<stdio.h>
+	<stdlib.h>
+
